@@ -175,8 +175,8 @@ def get_credentials():
     Returns OLX login credentials.
     (These are hardcoded for this integration; adjust as needed.)
     """
-    username = 'snezabnf'
-    password = 'conjevina12'
+    username = 
+    password = 
     return username, password
 
 
